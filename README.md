@@ -1,16 +1,84 @@
-# React + Vite
+# 📚 Study Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Study Hub is a responsive online learning platform built using React JS. It provides courses, workshops, blogs, and a simple login/register system for beginners.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://priyadarshanikumari.github.io/studyhub/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- User Registration & Login
+- Local Storage Authentication
+- Responsive UI using Bootstrap
+- React Router Navigation
+- Workshop Page
+- Blog Page
+- Course Pages
+  - React JS
+  - JavaScript
+  - Bootstrap
+  - HTML & CSS
+- Logout Functionality
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React JS
+- JavaScript (ES6)
+- Bootstrap 5
+- React Router DOM
+- React Icons
+- Vite
+
+## 📂 Project Structure
+
+```
+src
+ ├── components
+ ├── pages
+ ├── assets
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+```
+
+## 📦 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Priyadarshanikumari/studyhub.git
+```
+
+Go to project folder
+
+```bash
+cd studyhub
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development server
+
+```bash
+npm run dev
+```
+
+Build project
+
+```bash
+npm run build
+```
+
+## 👩‍💻 Developer
+
+**Priyadarshani Kumari**
+
+Frontend Developer (React JS)
+
+GitHub:
+https://github.com/Priyadarshanikumari
